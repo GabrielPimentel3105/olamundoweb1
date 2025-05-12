@@ -1,0 +1,19 @@
+*{
+    padding: 0; /*espaçamento interno*/
+    margin: 0; /*espaçamento externo*/
+}
+
+body{
+    background-color: aquamarine;
+}
+
+h1{
+    text-align: center;
+    font-size: 18px;
+    color: rgb(236, 11, 56);
+}
+
+label{
+    width: 150px;
+    display: inline-block;
+}
